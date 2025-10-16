@@ -1,0 +1,40 @@
+{
+  "name": "Arabicgamer12's Source",
+  "subtitle": "bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb",
+  "description": "Welcome to my source! Here you'll find all of my apps.",
+  "iconURL": "https://i.imgur.com/pqIZoZo.jpeg",
+  "website": "",
+  "patreonURL": "",
+  "tintColor": "#6156e2",
+  "featuredApps": [],
+  "apps": [
+    {
+      "name": "Minecraft",
+      "bundleIdentifier": "com.mojang.minecraftpe",
+      "marketplaceID": "",
+      "developerName": "(NOT) Arabicgamer12",
+      "subtitle": "Minecraft But Without Xbox LIVE",
+      "localizedDescription": "Minecraft But Without Xbox LIVE",
+      "iconURL": "https://i.imgur.com/GF2iWq9.png",
+      "tintColor": "#58ac3b",
+      "category": "games",
+      "screenshots": [],
+      "versions": [],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSCameraUsageDescription": "Used for Live Broadcast",
+          "NSMainNibFile": "MainWindow",
+          "NSUserTrackingUsageDescription": "Your data will be used to track advertising efficiency.",
+          "NSPhotoLibraryAddUsageDescription": "Used to read and write Minecraft images.",
+          "NSLocalNetworkUsageDescription": "Minecraft wants to access your local network. This allows you and others on your local network to play together. Declining this permission does not affect online features or gameplay. But will prevent you and others, on the same network, from playing together.",
+          "NSMicrophoneUsageDescription": "Used for Live Broadcast",
+          "NSContactsUsageDescription": "When you use the Xbox Live Friend Finder, it will access your contacts to help you find your friends.",
+          "NSPhotoLibraryUsageDescription": "Used to read and write Minecraft images."
+        }
+      },
+      "patreon": {}
+    }
+  ],
+  "news": []
+}
