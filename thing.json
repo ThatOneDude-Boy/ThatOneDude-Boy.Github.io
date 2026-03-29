@@ -1,0 +1,60 @@
+{
+  "name": "Arabicgamer12's Source",
+  "subtitle": "bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb",
+  "description": "Welcome to my source! Here you'll find all of my apps.",
+  "iconURL": "https://i.imgur.com/pqIZoZo.jpeg",
+  "tintColor": "#6156e2",
+  "featuredApps": [],
+  "apps": [
+    {
+      "name": "Minecraft",
+      "bundleIdentifier": "com.mojang.minecraftpe",
+      "marketplaceID": "",
+      "developerName": "(NOT) Arabicgamer12",
+      "subtitle": "Minecraft But Without Xbox LIVE",
+      "localizedDescription": "Minecraft But Without Xbox LIVE",
+      "iconURL": "https://i.imgur.com/5mrktot.png",
+      "tintColor": "#58ac3b",
+      "category": "games",
+      "screenshots": [],
+      "versions": [
+        {
+          "downloadURL": "https://minecrftipa.com/dl/Minecraft_v1.21.111_minecrftipa_.ipa",
+          "size": 568000000000,
+          "version": "1.21.111",
+          "buildVersion": "1.21.111",
+          "date": "2025-10-18T06:49:00+03:00",
+          "localizedDescription": "release date is not real btw",
+          "minOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSCameraUsageDescription": "Used for Live Broadcast",
+          "NSMainNibFile": "MainWindow",
+          "NSUserTrackingUsageDescription": "Your data will be used to track advertising efficiency.",
+          "NSPhotoLibraryAddUsageDescription": "Used to read and write Minecraft images.",
+          "NSLocalNetworkUsageDescription": "Minecraft wants to access your local network. This allows you and others on your local network to play together. Declining this permission does not affect online features or gameplay. But will prevent you and others, on the same network, from playing together.",
+          "NSMicrophoneUsageDescription": "Used for Live Broadcast",
+          "NSContactsUsageDescription": "When you use the Xbox Live Friend Finder, it will access your contacts to help you find your friends.",
+          "NSPhotoLibraryUsageDescription": "Used to read and write Minecraft images."
+        }
+      },
+      "patreon": {}
+    }
+  ],
+  "news": [
+    {
+      "title": "minecrap",
+      "identifier": "news_9b2dlwg03f",
+      "caption": "",
+      "date": "2025-10-17T18:19",
+      "tintColor": "#6156e2",
+      "imageURL": "",
+      "notify": true,
+      "url": "https://example.com/new_feature_details",
+      "appID": "com.mojang.minecraftpe"
+    }
+  ]
+}
